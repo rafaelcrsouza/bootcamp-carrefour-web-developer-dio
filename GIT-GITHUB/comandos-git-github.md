@@ -4,7 +4,7 @@
  - git config --global user.name "Rafael Souza"
 
 ### Setar email
- - git config --global user.email leonardo@software-ltda.com.br
+ - git config --global user.email rafaelcrsouza@gmail.com
 
 ### Listar configurações
  - git config --list
@@ -46,4 +46,4 @@
  - git push
 
 ### Clonar um repositório remoto já existente
- - git clone git@github.com:leocomelli/curso-git.git
+ - git clone git@github.com:rafaelcrsouza/bootcamp-carrefour-web-developer-dio.git
